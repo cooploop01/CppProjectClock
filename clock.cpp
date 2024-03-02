@@ -1,3 +1,4 @@
+/* Cooper Ring */
 #include <iostream>
 #include <iomanip>
 #include <ctime>
